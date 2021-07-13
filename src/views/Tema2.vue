@@ -105,7 +105,7 @@
                   h3.mb-1 Figura 2
                   p.mb-0.text-small Clasificación de los recursos turísticos.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Linea_de_tiempo_La_CAN_historia.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Esquema_Clasificacion_recursos_Turisticos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

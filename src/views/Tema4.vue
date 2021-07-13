@@ -33,7 +33,7 @@
     p.mb-4(data-aos="fade") Los puntos cardinales son los cuatro sentidos que definen el sistema de representación cartesiano para ubicarse en un mapa o en la superficie terrestre. Para que haya una comprensión del sentido de la orientación, es de vital importancia entender la perspectiva que se tendrá del entorno desde cualquier parte en la que uno se ubique sobre la superficie de la Tierra y desde donde se podrán comprender las diferentes direcciones: oriente, occidente, norte y sur. Esta comprensión del horizonte es elemental para la determinación de la posición geográfica. A continuación, se repasan brevemente estos puntos (Cobo, 2013):
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-7
+      .col-lg-6
         ImagenInfografica.color-secundario
           template(v-slot:imagen)
             figure

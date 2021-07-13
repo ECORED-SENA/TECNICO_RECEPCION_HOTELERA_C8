@@ -576,7 +576,6 @@ export default {
     z-index: 999
     bottom: 0
     padding: 1em
-    color: #FFF
   img
     backface-visibility: hidden
     max-width: 100%
@@ -590,7 +589,6 @@ export default {
 .nav-holder2 .h4
   margin: 0
   opacity: 1
-  color: #FFF
 
 .nav-holder2:hover
   .text

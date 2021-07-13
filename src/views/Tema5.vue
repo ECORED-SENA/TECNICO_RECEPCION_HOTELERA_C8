@@ -15,7 +15,7 @@
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-lg-8
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo4_CF08_Comunicacion_asertiva_con_turistas.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -56,9 +56,7 @@
 <script>
 export default {
   name: 'Tema5',
-  data: () => ({
-    // variables de vue
-  }),
+  data: () => ({}),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()

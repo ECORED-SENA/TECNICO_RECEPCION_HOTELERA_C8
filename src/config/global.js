@@ -304,25 +304,40 @@ export default {
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: 'Harbey Castelblanco',
+        nombre: 'Amparo Virginia Moreno antero',
+        cargo: 'Experto temático',
+        centro: 'Centro de Servicios y Gestión Empresarial',
+      },
+      {
+        nombre: 'Harbey Enrique Castelblanco',
         cargo: 'Experto temático',
         centro: 'Centro Nacional Colombo Alemán',
       },
       {
-        nombre: 'Leydy Jhuliana Jaramillo Mejía',
+        nombre: 'Leidy Carolina Arias Aguirre',
         cargo: 'Diseñadora instruccional',
-        centro: 'Centro de Gestión Industrial <br>Regional Distrito Capital',
+        centro: 'Centro de Diseño y Metrología',
       },
       {
-        nombre: 'Ana Catalina Córdoba Sus',
-        cargo: 'Revisora metodológica y pedagógica',
-        centro:
-          'Centro para la Industria de la Comunicación Gráfica <br>Regional Distrito Capital',
+        nombre: 'Leydy Jhuliana Jaramillo Mejía',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Gestión Industrial ',
+      },
+      {
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Evaluadora Instruccional',
+        centro: 'Centro de Gestión Industrial',
       },
       {
         nombre: 'Uriel Darío González Montoya',
-        cargo: 'Revisión y corrección de estilo',
+        cargo: 'Acompañamiento pedagógico',
         centro: 'Centro Agropecuario La Granja <br>Regional Tolima',
+      },
+      {
+        nombre: 'Jhana Johanna Bustillo Ardila',
+        cargo: 'Revisora de estilo',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
     ],
     desarrolloProducto: [
@@ -344,7 +359,35 @@ export default {
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: ' ',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios <br>Regional Tolima',
+      },
+      {
+        nombre: 'Ángela María Maldonado Jaime',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Camilo Villamizar Lizcano',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
@@ -356,7 +399,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: '  ',
+        nombre: 'Rafael Augusto Mantilla López',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',

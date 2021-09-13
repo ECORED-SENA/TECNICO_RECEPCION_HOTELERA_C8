@@ -21,7 +21,7 @@
               .col-lg-1.comilla-inicial
                 i.fas.fa-quote-left
               .col-lg-10.p-4
-                p.mb-0 Las empresas interesadas en prestar el servicio público de transporte o constituidas para tal fin, deberán solicitar y obtener habilitación para operar. La habilitación, para efectos de esta Ley, es la autorización expedida por la autoridad competente en cada Modo de transporte para la prestación del servicio público de transporte (Art. 11).
+                p.mb-0 Fenómeno social, cultural y económico que supone el desplazamiento de personas a países o lugares fuera de su entorno habitual por motivos personales, profesionales o de negocios. Esas personas se denominan viajeros (que pueden ser o bien turistas o excursionistas; residentes o no residentes) y el turismo abarca sus actividades, algunas de las cuales suponen un gasto turístico.
               .col-lg-1.comilla-final
                 i.fas.fa-quote-right  
 
@@ -312,7 +312,7 @@
               img(src='@/assets/curso/tema1-3-ico2.svg' alt='AvatarTop')
               .tarjeta.color-naranja3
                 .p-4
-                  h4.text-center INFRAESTRUCTURA turística
+                  h4.text-center Infraestructura turística
                   p.text-center.mb-0 Vías
                   p.text-center.mb-0 Sistemas Comunicación
                   p.text-center.mb-0 Sistema Sanitario
@@ -324,7 +324,7 @@
           img(src='@/assets/curso/tema1-3-ico3.svg' alt='AvatarTop')
           .tarjeta.color-naranja3
             .p-4
-              h4.text-center SUPERESTRUCTURA turística
+              h4.text-center Superestructura turística
               p.text-center Organismos oficiales, privados y mixtos que se encargan de la regulación del Sistema Turístico.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
@@ -332,7 +332,7 @@
           img(src='@/assets/curso/tema1-3-ico4.svg' alt='AvatarTop')
           .tarjeta.color-naranja3
             .p-4
-              h4.text-center OFERTA turística
+              h4.text-center Oferta turística
               p.text-center  Productos y servicios asociados a un determinado espacio geográfico.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
@@ -340,7 +340,7 @@
           img(src='@/assets/curso/tema1-3-ico5.svg' alt='AvatarTop')
           .tarjeta.color-naranja3
             .p-4
-              h4.text-center DEMANDA turística
+              h4.text-center Demanda turística
               p.text-center Conjunto de turistas que están motivados a utilizar una serie de productos o servicios turísticos para satisfacer sus necesidades.
 
     Separador

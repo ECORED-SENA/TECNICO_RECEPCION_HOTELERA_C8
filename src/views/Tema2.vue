@@ -113,7 +113,7 @@
 
 
     // 2.2
-    #t_2_2.titulo-segundo(data-aos="fade-right")
+    #t_2_3.titulo-segundo(data-aos="fade-right")
       .h2 2.3.  Zona turística
 
     p(data-aos="fade") Es un espacio territorial físico que contiene atractivos turísticos y que por lo tanto genera un flujo de personas (turistas) hacia ella. Su tamaño es variable y debe contar con unas cualidades homogéneas y un conjunto paisajístico común. Una zona turística puede agrupar extensiones territoriales de tamaño más pequeño y que se denominan áreas turísticas. Como rasgo relevante, la zona turística debe contar con infraestructura y servicios de comunicación entre las áreas que la integran. 

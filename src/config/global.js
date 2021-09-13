@@ -304,19 +304,9 @@ export default {
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },
       {
-        nombre: 'Amparo Virginia Moreno antero',
-        cargo: 'Experto temático',
-        centro: 'Centro de Servicios y Gestión Empresarial',
-      },
-      {
         nombre: 'Harbey Enrique Castelblanco',
         cargo: 'Experto temático',
         centro: 'Centro Nacional Colombo Alemán',
-      },
-      {
-        nombre: 'Leidy Carolina Arias Aguirre',
-        cargo: 'Diseñadora instruccional',
-        centro: 'Centro de Diseño y Metrología',
       },
       {
         nombre: 'Leydy Jhuliana Jaramillo Mejía',
@@ -329,15 +319,10 @@ export default {
         centro: 'Centro de Gestión Industrial',
       },
       {
-        nombre: 'Uriel Darío González Montoya',
-        cargo: 'Acompañamiento pedagógico',
-        centro: 'Centro Agropecuario La Granja <br>Regional Tolima',
-      },
-      {
-        nombre: 'Jhana Johanna Bustillo Ardila',
-        cargo: 'Revisora de estilo',
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Revisora Metodológica y Pedagógica',
         centro:
-          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+          'Centro para la Industria de la Comunicación Gráfica <br>Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -389,6 +374,12 @@ export default {
       {
         nombre: 'Camilo Villamizar Lizcano',
         cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
+      },
+      {
+        nombre: 'Andres Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura <br>Regional Santander',
       },

@@ -314,9 +314,9 @@ export default {
         centro: 'Centro de Gestión Industrial ',
       },
       {
-        nombre: 'Alix Cecilia Chinchilla Rueda',
-        cargo: 'Evaluadora Instruccional',
-        centro: 'Centro de Gestión Industrial',
+        nombre: 'Uriel Darío González Montoya',
+        cargo: 'Acompañamiento pedagógico',
+        centro: 'Centro Agropecuario La Granja <br>Regional Tolima',
       },
       {
         nombre: 'Ana Catalina Córdoba Sus',
